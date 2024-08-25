@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-25T13:15:01.022</Modified>
+      <Modified>2024-08-25T13:32:02.128</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-25T13:15:00.675</Modified>
+      <Modified>2024-08-25T13:32:01.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AgileFlowMobile.runtimeconfig.json">
       <PackagePath>AgileFlowMobile.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-25T13:15:00.425</Modified>
+      <Modified>2024-08-25T13:32:01.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AgileFlowMobile.dll">
       <PackagePath>AgileFlowMobile.dll</PackagePath>
-      <Modified>2024-08-25T13:14:58.624</Modified>
+      <Modified>2024-08-25T13:32:01.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AgileFlowMobile.exe</PackagePath>
-      <Modified>2024-08-25T13:14:58.640</Modified>
+      <Modified>2024-08-25T13:32:01.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:33.681</Modified>
+      <Modified>2024-08-25T13:31:59.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:33.716</Modified>
+      <Modified>2024-08-25T13:31:59.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:33.749</Modified>
+      <Modified>2024-08-25T13:31:59.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:33.787</Modified>
+      <Modified>2024-08-25T13:31:59.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:33.992</Modified>
+      <Modified>2024-08-25T13:32:00.029</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -81,217 +81,217 @@
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-08-25T12:26:02.503</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
-      <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-08-25T12:26:34.061</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
-      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.997</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
-      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:35.036</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
-      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:35.066</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
-      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:35.140</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
-      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:35.408</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.295</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.303</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.347</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.314</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.322</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.233</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.241</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.287</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.251</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.262</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
-      <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.106</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
-      <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.118</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
-      <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.130</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
-      <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.142</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
-      <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.160</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
-      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.170</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
-      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.180</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
-      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.224</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
-      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.189</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
-      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.198</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
-      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.485</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
-      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.499</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
-      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.515</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
-      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.544</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
-      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.635</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
-      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.413</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
-      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.421</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
-      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.437</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
-      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.449</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
-      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.469</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
-      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.356</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
-      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.366</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
-      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.376</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
-      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.388</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
-      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.404</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
-      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.663</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
-      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.689</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
-      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.740</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
-      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.807</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
-      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T12:26:34.967</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-08-25T13:13:57.317</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-08-25T13:13:57.332</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-08-25T13:13:57.347</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-08-25T13:13:57.377</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-08-25T13:13:57.497</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>
       <Modified>2024-08-25T01:57:45.348</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+      <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:01.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+      <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+      <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+      <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+      <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+      <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+      <PackagePath>appiconWideTile.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+      <PackagePath>appiconWideTile.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+      <PackagePath>appiconWideTile.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+      <PackagePath>appiconWideTile.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+      <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+      <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+      <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+      <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+      <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+      <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+      <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+      <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+      <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+      <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+      <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+      <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+      <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+      <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+      <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+      <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+      <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+      <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+      <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+      <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+      <PackagePath>appiconLogo.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+      <PackagePath>appiconLogo.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+      <PackagePath>appiconLogo.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+      <PackagePath>appiconLogo.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+      <PackagePath>appiconLogo.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+      <PackagePath>appicon.ico</PackagePath>
+      <Modified>2024-08-25T13:32:00.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+      <Modified>2024-08-25T13:32:00.092</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\source\repos\AgileFlowMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AgileFlowMobile.deps.json">
       <PackagePath>AgileFlowMobile.deps.json</PackagePath>
-      <Modified>2024-08-25T13:15:00.394</Modified>
+      <Modified>2024-08-25T13:32:01.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Leanderson\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
