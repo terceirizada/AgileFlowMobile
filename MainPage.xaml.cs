@@ -1,4 +1,6 @@
-﻿namespace AgileFlowMobile
+﻿using AgileFlowMobile.front.Pages;
+
+namespace AgileFlowMobile
 {
     public partial class MainPage : ContentPage
     {
@@ -10,12 +12,6 @@
         private async void Btn_Login(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
-
-            //Desabilita Botão 
-            btn.IsEnabled = false;
-
-            //Reabilita Botão
-            btn.IsEnabled = true;
         }
 
         //Comportamento de Focar e Desfocar das Entries - ReturnType - Done
@@ -38,7 +34,7 @@
 
         private async void Btn_Cadastro(object sender, EventArgs e)
         {
-            //await Shell.Current.GoToAsync($"{nameof(PageCadastro)}");
+            await Shell.Current.GoToAsync($"{nameof(PageCadastro)}");
         }
     }
 
