@@ -6,7 +6,7 @@
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="front\Pages\PageCadastro.xaml">
+    <MauiXaml Update="frontend\Pages\PageCadastro.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
