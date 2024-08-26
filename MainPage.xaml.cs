@@ -2,23 +2,43 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
         public MainPage()
         {
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private async void Btn_Login(object sender, EventArgs e)
         {
-            count++;
+            Button btn = (Button)sender;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+            //Desabilita Botão 
+            btn.IsEnabled = false;
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+            //Reabilita Botão
+            btn.IsEnabled = true;
+        }
+
+        //Comportamento de Focar e Desfocar das Entries - ReturnType - Done
+        private void _entryNome_Focused(object sender, FocusEventArgs e)
+        {
+            _entryNome.Completed += (s, e) =>
+            {
+                _entrySenha.Focus();
+            };
+        }
+        private void _entrySenha_Focused(object sender, FocusEventArgs e)
+        {
+            _entrySenha.Completed += (s, e) =>
+            {
+                _entrySenha.IsEnabled = false;
+                _entrySenha.Unfocus();
+                _entrySenha.IsEnabled = true;
+            };
+        }
+
+        private async void Btn_Cadastro(object sender, EventArgs e)
+        {
+            //await Shell.Current.GoToAsync($"{nameof(PageCadastro)}");
         }
     }
 
