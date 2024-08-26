@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AgileFlowMobile.front.Pages.PageCadastro"
+             Shell.FlyoutBehavior  = "Disabled"
+             Shell.NavBarIsVisible = "True"
+             Shell.TabBarIsVisible = "False"
+             Shell.BackgroundColor ="DarkSlateBlue"
+             Title="Cadastro de Usuário">
+
+    <ScrollView>
+        <Grid RowDefinitions="5*,5*">
+
+            <Image Source="logo.png" Aspect="Fill" HeightRequest="300" WidthRequest="300"/>
+
+            <StackLayout 
+                Grid.Row = "1"
+                Spacing  = "10"
+                Margin   = "10">
+
+                <Entry 
+                    x:Name                = "_entryNome"                        
+                    FontSize              = "15"
+                    MaxLength             = "50"
+                    CharacterSpacing      = "2"
+                    Placeholder           = "Email"
+                    PlaceholderColor      = "Gray"
+                    HeightRequest         = "55"
+                    BackgroundColor       = "WhiteSmoke"
+                    VerticalTextAlignment = "End"
+                    ClearButtonVisibility = "WhileEditing"
+                    Keyboard              = "Default"
+                    Focused               = "_entryNome_Focused"
+                    ReturnType            = "Done">
+                    <Entry.Shadow>
+                        <Shadow
+                            Brush   = "black"
+                            Offset  = "0,5"
+                            Radius  = "2"
+                            Opacity = "0.2"/>
+                    </Entry.Shadow>
+                </Entry>
+
+                <Entry 
+                    x:Name                = "_entrySenha"                        
+                    FontSize              = "15"
+                    CharacterSpacing      = "2"                   
+                    Placeholder           = "Senha"
+                    PlaceholderColor      = "Gray"
+                    BackgroundColor       = "WhiteSmoke"               
+                    HeightRequest         = "55"
+                    IsPassword            = "True"
+                    ClearButtonVisibility = "WhileEditing"
+                    Focused               = "_entrySenha_Focused"
+                    ReturnType            = "Done">
+                    <Entry.Shadow>
+                        <Shadow 
+                            Brush   = "black"
+                            Offset  = "0,5"
+                            Radius  = "2"
+                            Opacity = "0.2"/>
+                    </Entry.Shadow>
+                </Entry>
+
+                <Entry 
+                    x:Name                = "_entryRepetirSenha"                        
+                    FontSize              = "15"
+                    CharacterSpacing      = "2"                   
+                    Placeholder           = "Repita a Senha"
+                    PlaceholderColor      = "Gray"
+                    BackgroundColor       = "WhiteSmoke"               
+                    HeightRequest         = "55"
+                    IsPassword            = "True"
+                    ClearButtonVisibility = "WhileEditing"
+                    Focused               = "_entrySenha_Focused"
+                    ReturnType            = "Done">
+                    <Entry.Shadow>
+                        <Shadow 
+                            Brush   = "black"
+                            Offset  = "0,5"
+                            Radius  = "2"
+                            Opacity = "0.2"/>
+                    </Entry.Shadow>
+                </Entry>
+
+                <Button 
+                    x:Name          = "_btn_Cadastro"
+                    Text            = "Cadastrar"
+                    FontSize        = "20"
+                    BackgroundColor = "DarkSlateBlue"
+                    Clicked         = "Btn_Cadastro"
+                    Margin          = "0,150,0,0"
+                    VerticalOptions = "End"/>
+
+            </StackLayout>
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
